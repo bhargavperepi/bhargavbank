@@ -1,1 +1,1 @@
-hello these is the data about deployment
+hello your using script data
